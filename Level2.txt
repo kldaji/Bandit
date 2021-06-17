@@ -1,0 +1,4 @@
+1. Google Search "spaces in filename"
+2. cat spaces*
+3. cat 'spaces in this filename'
+4. cat spaces\ in\ this\ filename

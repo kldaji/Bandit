@@ -1,0 +1,6 @@
+1. -(하이푼) = option
+2. Google Search for “dashed filename”
+3. cat ./-
+3-1. ./(현재경로) = 상대경로 
+4. cat < -
+4-1. <(redirect) = 프로그램의 결과 혹은 출력을 파일이나 다른 스트림으로 전달하거나 남길 때 사용
