@@ -1,0 +1,4 @@
+# ctrl + L == clear
+
+1. ls 
+2. cat readme
