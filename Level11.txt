@@ -1,0 +1,2 @@
+<내가 해결한 방법> 
+cat data.txt | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'

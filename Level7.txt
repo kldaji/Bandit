@@ -1,0 +1,6 @@
+<내가 해결한 방법>
+grep "millionth" data.txt
+
+<블로그>
+cat data.txt | grep "millionth"
+

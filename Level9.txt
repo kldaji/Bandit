@@ -1,0 +1,3 @@
+<내가 해결한 방법> 
+strings -a data.txt
+

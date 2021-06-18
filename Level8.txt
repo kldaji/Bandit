@@ -1,0 +1,7 @@
+<내가 해결한 방법> 
+sort data.txt | uniq -c 
+=> 카운트
+
+<블로그>
+sort data.txt | uniq -u
+=> 중복되지 않는 행 출력

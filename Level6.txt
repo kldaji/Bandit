@@ -1,0 +1,4 @@
+1. find / -size 33c -user bandit7 -group bandit6
+1-1. permission denied가 너무 많이 나온다.
+2. find / -size 33c -user bandit7 -group bandit6 2> /dev/null
+2-1. 에러난 결과를 모두 거른다.

@@ -1,0 +1,2 @@
+1. cd inhere
+2. find ./* -size 1033c
